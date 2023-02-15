@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+.nuevo {
+    position: absolute;
+    float: left;
+    color: red;
+    font-size: 40px;
+}
+
+h1, p, form {
+    text-align: center;
+}
+
